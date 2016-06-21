@@ -1,3 +1,16 @@
 This is a test for me to try out all the git commands.  Hope everything will work fine!
 
 u - undo last change
+$ - go to the end of the line
+a - append after cursor
+o - open a new line after current line
+A - append after the line
+G - move to the last line of the file
+
+h - move left
+l - move right 
+j - move up
+k - move down
+
+x - delete character to the right of cursor
+D - delete to the end of the line
